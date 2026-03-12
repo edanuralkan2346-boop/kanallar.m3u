@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://raw.githubusercontent.com/fsh0r/TR-Logo/main/trt1.png" group-title="Ulusal",TRT1 (1440p)
+#EXTINF:-1 tvg-id="TRT1(src05).tr" tvg-logo="https://raw.githubusercontent.com/fsh0r/TR-Logo/main/trt1.png" group-title="Ulusal",TRT1 (1440p)
 #EXTVLCOPT:http-referer="https://www.tabii.com/"
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=859hosiff9au&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Ulusal",TRT1 (1080p)
+#EXTINF:-1 tvg-id="TRT1(src05).tr" tvg-logo="" group-title="Ulusal",TRT1 (1080p)
 #EXTVLCOPT:http-referer="https://www.tabii.com/"
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=859hosiff9au&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Ulusal",TRT1 (720p)
+#EXTINF:-1 tvg-id="TRT1(src05).tr" tvg-logo="" group-title="Ulusal",TRT1 (720p)
 #EXTVLCOPT:http-referer="https://www.tabii.com/"
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=859hosiff9au&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="" group-title="Ulusal",TRT KURDİ (1440p)
+#EXTINF:-1 tvg-id="TRTKURDI(src05).tr" tvg-logo="" group-title="Ulusal",TRT KURDİ (1440p)
 #EXTVLCOPT:http-referer="https://www.tabii.com/"
 https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="" group-title="Ulusal",TRT KURDİ (1080p)
+#EXTINF:-1 tvg-id="TRTKURDI(src05).tr" tvg-logo="" group-title="Ulusal",TRT KURDİ (1080p)
 #EXTVLCOPT:http-referer="https://www.tabii.com/"
 https://tv-trtkurdi.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="" group-title="Ulusal",TRT KURDİ (720p)
+#EXTINF:-1 tvg-id="TRTKURDI(src05).tr" tvg-logo="" group-title="Ulusal",TRT KURDİ (720p)
 #EXTVLCOPT:http-referer="https://www.tabii.com/"
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="" group-title="Ulusal",TRT KURDİ (480p)
+#EXTINF:-1 tvg-id="TRTKURDI(src05).tr" tvg-logo="" group-title="Ulusal",TRT KURDİ (480p)
 #EXTVLCOPT:http-referer="https://www.tabii.com/"
 https://tv-trtkurdi.medya.trt.com.tr/master_480.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="" group-title="Ulusal",TRT 2 (1440p)
+#EXTINF:-1 tvg-id="TRT2(src09).tr" tvg-logo="" group-title="Ulusal",TRT 2 (1440p)
 #EXTVLCOPT:http-referer="https://www.tabii.com/"
 https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="" group-title="Ulusal",TRT 2 (1080p)
+#EXTINF:-1 tvg-id="TRT2(src09).tr" tvg-logo="" group-title="Ulusal",TRT 2 (1080p)
 #EXTVLCOPT:http-referer="https://www.tabii.com/"
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="" group-title="Ulusal",TRT 2 (720p)
+#EXTINF:-1 tvg-id="TRT2(src09).tr" tvg-logo="" group-title="Ulusal",TRT 2 (720p)
 #EXTVLCOPT:http-referer="https://www.tabii.com/"
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="" group-title="Ulusal",TRT 2 (480p)
+#EXTINF:-1 tvg-id="TRT2(src09).tr" tvg-logo="" group-title="Ulusal",TRT 2 (480p)
 #EXTVLCOPT:http-referer="https://www.tabii.com/"
 https://tv-trt2.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="" group-title="Ulusal", Atv (1080p)
