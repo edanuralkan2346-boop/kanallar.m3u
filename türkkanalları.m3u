@@ -460,3 +460,44 @@ https://httxxkbiqd.erbvr.com/vms/f/53/10/f5310982-9dc7-4e1e-a89f-9c817a744730/f5
 https://httxxkbiqd.erbvr.com/vms/4/ee/73/4ee73195-34bb-452a-ae59-0bc04a38884b/4ee73195-34bb-452a-ae59-0bc04a38884b.smil/.m3u8?st=PDQS7PcscjpW7V1L0Yj9Cg&e=1773528092
 #EXTINF:-1 tvg-logo"https://iasbh.tmgrup.com.tr/09d44b/1200/675/0/0/1500/843?u=https://isbh.tmgrup.com.tr/sbh/2025/11/25/1764066357407.jpg" group-title"Diziler", A.B.İ 9B 1S
 https://httxxkbiqd.erbvr.com/vms/d/85/e5/d85e5995-7e38-495c-b809-f16ea4a4d368/d85e5995-7e38-495c-b809-f16ea4a4d368.smil/.m3u8?st=XXSoOnvDcbfHTagJEGORDA&e=1773528109
+
+#EXTM3U
+#EXTINF:-1 tvg-logo"https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler",Galip Derviş 1B 1S
+https://kanaldvod.duhnet.tv//S2/HLS_VOD/5401_2b86/index.m3u8?key=5465eeb0cf45af1064b70a0b&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 2B 1S
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/5852_6f08/index.m3u8?key=5465eeb0cf45af1064b70a0e&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1 tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 3B 1S
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/6099_6546/index.m3u8?key=5465eeb0cf45af1064b70a11&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 4B 1S
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/6327_3409/index.m3u8?key=5465eeb1cf45af1064b70a14&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 5B 1S
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/6544_5a19/index.m3u8?key=5465eeb1cf45af1064b70a17&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 6B 1S
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/6683_869f/index.m3u8?key=5465eeb1cf45af1064b70a1a&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 7B 1S
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/6684_118f/index.m3u8?key=5465eeb1cf45af1064b70a1d&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 8B 1S
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/7054_4fe5/index.m3u8?key=5465eeb1cf45af1064b70a20&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 9B 1S
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/7476_2e4d/index.m3u8?key=5465eeb2cf45af1064b70a23&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 10B 1S
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/8116_964f/index.m3u8?key=5465eeb2cf45af1064b70a26&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 11B 1S
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/8440_a1e1/index.m3u8?key=5465eeb2cf45af1064b70a29&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 12B 1S
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/8842_7177/index.m3u8?key=5465eeb2cf45af1064b70a2c&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 13B 1S
+https://kanaldvod.duhnet.tv/S2/HLS_VOD/9500_7c5e/index.m3u8?key=5465eeb2cf45af1064b70a2f&app=com.kanald&part=1-1&min=350&max=1250
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 14B 1S
+
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 15B 1S
+
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 16B 1S
+
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 17B 1S
+
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 18B 1S
+
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 20B 2S
+
+#EXTINF:-1  tvg-logo="https://image.kanald.com.tr/i/kanald/70/0x0/6834d5b484687ed42a4b7f10.jpg" group-title="Diziler" ,Galip Derviş 21B 2S
